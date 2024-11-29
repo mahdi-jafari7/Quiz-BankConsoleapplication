@@ -1,0 +1,261 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\mahdi\\source\\repos\\BankConsoleApp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2D604D56-D9CE-47F8-B070-AD391E4264C6}|BankConsoleApp\\BankConsoleApp.csproj|c:\\users\\mahdi\\source\\repos\\bankconsoleapp\\bankconsoleapp\\services\\cardservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2D604D56-D9CE-47F8-B070-AD391E4264C6}|BankConsoleApp\\BankConsoleApp.csproj|solutionrelative:bankconsoleapp\\services\\cardservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2D604D56-D9CE-47F8-B070-AD391E4264C6}|BankConsoleApp\\BankConsoleApp.csproj|c:\\users\\mahdi\\source\\repos\\bankconsoleapp\\bankconsoleapp\\repositories\\cardrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2D604D56-D9CE-47F8-B070-AD391E4264C6}|BankConsoleApp\\BankConsoleApp.csproj|solutionrelative:bankconsoleapp\\repositories\\cardrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2D604D56-D9CE-47F8-B070-AD391E4264C6}|BankConsoleApp\\BankConsoleApp.csproj|c:\\users\\mahdi\\source\\repos\\bankconsoleapp\\bankconsoleapp\\interfaces\\repository interface\\icardrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2D604D56-D9CE-47F8-B070-AD391E4264C6}|BankConsoleApp\\BankConsoleApp.csproj|solutionrelative:bankconsoleapp\\interfaces\\repository interface\\icardrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2D604D56-D9CE-47F8-B070-AD391E4264C6}|BankConsoleApp\\BankConsoleApp.csproj|c:\\users\\mahdi\\source\\repos\\bankconsoleapp\\bankconsoleapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2D604D56-D9CE-47F8-B070-AD391E4264C6}|BankConsoleApp\\BankConsoleApp.csproj|solutionrelative:bankconsoleapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2D604D56-D9CE-47F8-B070-AD391E4264C6}|BankConsoleApp\\BankConsoleApp.csproj|c:\\users\\mahdi\\source\\repos\\bankconsoleapp\\bankconsoleapp\\services\\transactionservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2D604D56-D9CE-47F8-B070-AD391E4264C6}|BankConsoleApp\\BankConsoleApp.csproj|solutionrelative:bankconsoleapp\\services\\transactionservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2D604D56-D9CE-47F8-B070-AD391E4264C6}|BankConsoleApp\\BankConsoleApp.csproj|c:\\users\\mahdi\\source\\repos\\bankconsoleapp\\bankconsoleapp\\interfaces\\repository interface\\itransactionrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2D604D56-D9CE-47F8-B070-AD391E4264C6}|BankConsoleApp\\BankConsoleApp.csproj|solutionrelative:bankconsoleapp\\interfaces\\repository interface\\itransactionrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2D604D56-D9CE-47F8-B070-AD391E4264C6}|BankConsoleApp\\BankConsoleApp.csproj|c:\\users\\mahdi\\source\\repos\\bankconsoleapp\\bankconsoleapp\\repositories\\transactionrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2D604D56-D9CE-47F8-B070-AD391E4264C6}|BankConsoleApp\\BankConsoleApp.csproj|solutionrelative:bankconsoleapp\\repositories\\transactionrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2D604D56-D9CE-47F8-B070-AD391E4264C6}|BankConsoleApp\\BankConsoleApp.csproj|c:\\users\\mahdi\\source\\repos\\bankconsoleapp\\bankconsoleapp\\interfaces\\service interface\\itransactionservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2D604D56-D9CE-47F8-B070-AD391E4264C6}|BankConsoleApp\\BankConsoleApp.csproj|solutionrelative:bankconsoleapp\\interfaces\\service interface\\itransactionservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2D604D56-D9CE-47F8-B070-AD391E4264C6}|BankConsoleApp\\BankConsoleApp.csproj|c:\\users\\mahdi\\source\\repos\\bankconsoleapp\\bankconsoleapp\\entities\\transaction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2D604D56-D9CE-47F8-B070-AD391E4264C6}|BankConsoleApp\\BankConsoleApp.csproj|solutionrelative:bankconsoleapp\\entities\\transaction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2D604D56-D9CE-47F8-B070-AD391E4264C6}|BankConsoleApp\\BankConsoleApp.csproj|c:\\users\\mahdi\\source\\repos\\bankconsoleapp\\bankconsoleapp\\bankdbcontext\\bankdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2D604D56-D9CE-47F8-B070-AD391E4264C6}|BankConsoleApp\\BankConsoleApp.csproj|solutionrelative:bankconsoleapp\\bankdbcontext\\bankdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2D604D56-D9CE-47F8-B070-AD391E4264C6}|BankConsoleApp\\BankConsoleApp.csproj|c:\\users\\mahdi\\source\\repos\\bankconsoleapp\\bankconsoleapp\\configuration\\configuration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2D604D56-D9CE-47F8-B070-AD391E4264C6}|BankConsoleApp\\BankConsoleApp.csproj|solutionrelative:bankconsoleapp\\configuration\\configuration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2D604D56-D9CE-47F8-B070-AD391E4264C6}|BankConsoleApp\\BankConsoleApp.csproj|c:\\users\\mahdi\\source\\repos\\bankconsoleapp\\bankconsoleapp\\entities\\card.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2D604D56-D9CE-47F8-B070-AD391E4264C6}|BankConsoleApp\\BankConsoleApp.csproj|solutionrelative:bankconsoleapp\\entities\\card.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2D604D56-D9CE-47F8-B070-AD391E4264C6}|BankConsoleApp\\BankConsoleApp.csproj|c:\\users\\mahdi\\source\\repos\\bankconsoleapp\\bankconsoleapp\\interfaces\\service interface\\icardservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2D604D56-D9CE-47F8-B070-AD391E4264C6}|BankConsoleApp\\BankConsoleApp.csproj|solutionrelative:bankconsoleapp\\interfaces\\service interface\\icardservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 8,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{be4d7042-ba3f-11d2-840e-00c04f9902c1}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Configuration.cs",
+              "DocumentMoniker": "C:\\Users\\mahdi\\source\\repos\\BankConsoleApp\\BankConsoleApp\\configuration\\Configuration.cs",
+              "RelativeDocumentMoniker": "BankConsoleApp\\configuration\\Configuration.cs",
+              "ToolTip": "C:\\Users\\mahdi\\source\\repos\\BankConsoleApp\\BankConsoleApp\\configuration\\Configuration.cs",
+              "RelativeToolTip": "BankConsoleApp\\configuration\\Configuration.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAkAAAAuAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-29T08:29:54.091Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "BankDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\mahdi\\source\\repos\\BankConsoleApp\\BankConsoleApp\\BankDbContext\\BankDbContext.cs",
+              "RelativeDocumentMoniker": "BankConsoleApp\\BankDbContext\\BankDbContext.cs",
+              "ToolTip": "C:\\Users\\mahdi\\source\\repos\\BankConsoleApp\\BankConsoleApp\\BankDbContext\\BankDbContext.cs",
+              "RelativeToolTip": "BankConsoleApp\\BankDbContext\\BankDbContext.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAQwBIAAAAuAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-29T06:39:23.304Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "TransactionService.cs",
+              "DocumentMoniker": "C:\\Users\\mahdi\\source\\repos\\BankConsoleApp\\BankConsoleApp\\Services\\TransactionService.cs",
+              "RelativeDocumentMoniker": "BankConsoleApp\\Services\\TransactionService.cs",
+              "ToolTip": "C:\\Users\\mahdi\\source\\repos\\BankConsoleApp\\BankConsoleApp\\Services\\TransactionService.cs",
+              "RelativeToolTip": "BankConsoleApp\\Services\\TransactionService.cs",
+              "ViewState": "AQIAABYAAAAAAAAAAAAQwCIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-29T06:19:44.466Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CardService.cs",
+              "DocumentMoniker": "C:\\Users\\mahdi\\source\\repos\\BankConsoleApp\\BankConsoleApp\\Services\\CardService.cs",
+              "RelativeDocumentMoniker": "BankConsoleApp\\Services\\CardService.cs",
+              "ToolTip": "C:\\Users\\mahdi\\source\\repos\\BankConsoleApp\\BankConsoleApp\\Services\\CardService.cs",
+              "RelativeToolTip": "BankConsoleApp\\Services\\CardService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-29T06:19:25.348Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ICardRepository.cs",
+              "DocumentMoniker": "C:\\Users\\mahdi\\source\\repos\\BankConsoleApp\\BankConsoleApp\\Interfaces\\Repository Interface\\ICardRepository.cs",
+              "RelativeDocumentMoniker": "BankConsoleApp\\Interfaces\\Repository Interface\\ICardRepository.cs",
+              "ToolTip": "C:\\Users\\mahdi\\source\\repos\\BankConsoleApp\\BankConsoleApp\\Interfaces\\Repository Interface\\ICardRepository.cs",
+              "RelativeToolTip": "BankConsoleApp\\Interfaces\\Repository Interface\\ICardRepository.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAywBYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-29T06:17:12.986Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "TransactionRepository.cs",
+              "DocumentMoniker": "C:\\Users\\mahdi\\source\\repos\\BankConsoleApp\\BankConsoleApp\\Repositories\\TransactionRepository.cs",
+              "RelativeDocumentMoniker": "BankConsoleApp\\Repositories\\TransactionRepository.cs",
+              "ToolTip": "C:\\Users\\mahdi\\source\\repos\\BankConsoleApp\\BankConsoleApp\\Repositories\\TransactionRepository.cs",
+              "RelativeToolTip": "BankConsoleApp\\Repositories\\TransactionRepository.cs",
+              "ViewState": "AQIAABAAAAAAAAAAAAAQwBkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-29T06:18:57.126Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ITransactionRepository.cs",
+              "DocumentMoniker": "C:\\Users\\mahdi\\source\\repos\\BankConsoleApp\\BankConsoleApp\\Interfaces\\Repository Interface\\ITransactionRepository.cs",
+              "RelativeDocumentMoniker": "BankConsoleApp\\Interfaces\\Repository Interface\\ITransactionRepository.cs",
+              "ToolTip": "C:\\Users\\mahdi\\source\\repos\\BankConsoleApp\\BankConsoleApp\\Interfaces\\Repository Interface\\ITransactionRepository.cs",
+              "RelativeToolTip": "BankConsoleApp\\Interfaces\\Repository Interface\\ITransactionRepository.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAIwAwAAAA1AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-29T06:17:47.199Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ITransactionService.cs",
+              "DocumentMoniker": "C:\\Users\\mahdi\\source\\repos\\BankConsoleApp\\BankConsoleApp\\Interfaces\\Service Interface\\ITransactionService.cs",
+              "RelativeDocumentMoniker": "BankConsoleApp\\Interfaces\\Service Interface\\ITransactionService.cs",
+              "ToolTip": "C:\\Users\\mahdi\\source\\repos\\BankConsoleApp\\BankConsoleApp\\Interfaces\\Service Interface\\ITransactionService.cs",
+              "RelativeToolTip": "BankConsoleApp\\Interfaces\\Service Interface\\ITransactionService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAxAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-29T06:18:38.017Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "ICardService.cs",
+              "DocumentMoniker": "C:\\Users\\mahdi\\source\\repos\\BankConsoleApp\\BankConsoleApp\\Interfaces\\Service Interface\\ICardService.cs",
+              "RelativeDocumentMoniker": "BankConsoleApp\\Interfaces\\Service Interface\\ICardService.cs",
+              "ToolTip": "C:\\Users\\mahdi\\source\\repos\\BankConsoleApp\\BankConsoleApp\\Interfaces\\Service Interface\\ICardService.cs",
+              "RelativeToolTip": "BankConsoleApp\\Interfaces\\Service Interface\\ICardService.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAAwAAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-29T06:18:02.866Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Card.cs",
+              "DocumentMoniker": "C:\\Users\\mahdi\\source\\repos\\BankConsoleApp\\BankConsoleApp\\Entities\\Card.cs",
+              "RelativeDocumentMoniker": "BankConsoleApp\\Entities\\Card.cs",
+              "ToolTip": "C:\\Users\\mahdi\\source\\repos\\BankConsoleApp\\BankConsoleApp\\Entities\\Card.cs",
+              "RelativeToolTip": "BankConsoleApp\\Entities\\Card.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAAABIAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-29T06:03:44.874Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\mahdi\\source\\repos\\BankConsoleApp\\BankConsoleApp\\Program.cs",
+              "RelativeDocumentMoniker": "BankConsoleApp\\Program.cs",
+              "ToolTip": "C:\\Users\\mahdi\\source\\repos\\BankConsoleApp\\BankConsoleApp\\Program.cs",
+              "RelativeToolTip": "BankConsoleApp\\Program.cs",
+              "ViewState": "AQIAAB4AAAAAAAAAAAAAAEYAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-29T06:02:28.747Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Transaction.cs",
+              "DocumentMoniker": "C:\\Users\\mahdi\\source\\repos\\BankConsoleApp\\BankConsoleApp\\Entities\\Transaction.cs",
+              "RelativeDocumentMoniker": "BankConsoleApp\\Entities\\Transaction.cs",
+              "ToolTip": "C:\\Users\\mahdi\\source\\repos\\BankConsoleApp\\BankConsoleApp\\Entities\\Transaction.cs",
+              "RelativeToolTip": "BankConsoleApp\\Entities\\Transaction.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAAwAwAAAA0AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-29T06:04:04.773Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CardRepository.cs",
+              "DocumentMoniker": "C:\\Users\\mahdi\\source\\repos\\BankConsoleApp\\BankConsoleApp\\Repositories\\CardRepository.cs",
+              "RelativeDocumentMoniker": "BankConsoleApp\\Repositories\\CardRepository.cs",
+              "ToolTip": "C:\\Users\\mahdi\\source\\repos\\BankConsoleApp\\BankConsoleApp\\Repositories\\CardRepository.cs",
+              "RelativeToolTip": "BankConsoleApp\\Repositories\\CardRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAADcAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-29T09:24:44.542Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
