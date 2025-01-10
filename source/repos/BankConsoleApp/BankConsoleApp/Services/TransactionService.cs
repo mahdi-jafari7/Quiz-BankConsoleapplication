@@ -39,7 +39,7 @@ namespace BankConsoleApp.Services
             var source = _cardService.GetByCardNumber(sourseId);
             var des = _cardService.GetByCardNumber(destinationId);
 
-            if (source != null && des != null && amount > source.Balance &&
+            if (source != null && des != null && amount < source.Balance &&
                 source.CardNumber.Length == 16 && des.CardNumber.Length == 16)
             {
                 _cardService.Bardasht(sourseId, amount);

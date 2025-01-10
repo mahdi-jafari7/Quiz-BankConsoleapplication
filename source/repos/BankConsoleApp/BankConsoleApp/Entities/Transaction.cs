@@ -1,5 +1,6 @@
 ﻿using System;
 using System.Collections.Generic;
+using System.ComponentModel.DataAnnotations;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
@@ -9,6 +10,7 @@ namespace BankConsoleApp.Entities
 {
     public class Transaction
     {
+        [Key]
         public int TransactionId { get; set; }
         public string SourceCardNumber { get; set; }
         public string DestinationCardNumber { get; set; }

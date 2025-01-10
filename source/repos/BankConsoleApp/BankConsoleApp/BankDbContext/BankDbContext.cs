@@ -30,7 +30,8 @@ namespace BankConsoleApp.DbContext
             modelBuilder.Entity<Transaction>()
                 .HasOne(b => b.forCard)
                 .WithMany(u => u.transactions)
-                .HasForeignKey(b => b.TransactionId);
+                .HasForeignKey(b => b.forCardId);
+                
 
             modelBuilder.Entity<Card>().HasData(
             new Card

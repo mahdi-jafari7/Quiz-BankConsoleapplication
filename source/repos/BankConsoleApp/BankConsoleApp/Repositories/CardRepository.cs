@@ -19,18 +19,18 @@ namespace BankConsoleApp.Repositories
 
         public void Bardasht(string idcart, float amount)
         {
-            var user = _bankdb.Cards.FirstOrDefault(o => o.CardNumber == idcart);
+            _bankdb.Cards.FirstOrDefault(o => o.CardNumber == idcart).Balance -= amount;
 
-            user.Balance -= amount;
+      
             _bankdb.SaveChanges();
         }
 
 
         public void Variz(string idcart, float amount)
         {
-            var user = _bankdb.Cards.FirstOrDefault(o => o.CardNumber == idcart);
+             _bankdb.Cards.FirstOrDefault(o => o.CardNumber == idcart).Balance +=amount;
 
-            user.Balance+= amount;
+            
             _bankdb.SaveChanges();
         }
 

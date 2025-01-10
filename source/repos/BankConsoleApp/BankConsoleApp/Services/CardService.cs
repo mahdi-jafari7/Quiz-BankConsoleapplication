@@ -42,11 +42,14 @@ namespace BankConsoleApp.Services
         {
             var user = _cardRepository.GetByCardNumber(cardnumber);
 
-            if (!string.IsNullOrEmpty(user.CardNumber) && user.CardNumber.Length == 16 && user.IsActive)
+            if (user != null && user.CardNumber.Length == 16 && user.IsActive)
             {
                 return _cardRepository.login(user.CardNumber, password);
             }
-            else { return false; }
+            else
+            {
+                return false;
+            }
         }
         public float Mojodi(int id)
         {

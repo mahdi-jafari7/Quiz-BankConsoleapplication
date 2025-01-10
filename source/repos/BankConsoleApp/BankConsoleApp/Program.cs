@@ -36,7 +36,16 @@ while (true)
         else
         {
             Console.WriteLine("Your Card Number or passowrd is wrong");
-            CurrentCard.TryToEnterTimes++;
+
+            var result = _cardService.GetByCardNumber(cardNumber);
+            if (result != null)
+            {
+                result.TryToEnterTimes++;
+            }
+            else
+            {
+                break;
+            }
         }
     }
 }
@@ -46,7 +55,8 @@ void Menu()
     Console.Clear();
     Console.WriteLine("1. Transfer Money");
     Console.WriteLine("2. View my last Transaction");
-    Console.WriteLine("3. Logout");
+    Console.WriteLine("3. View my Balance");
+    Console.WriteLine("4. Logout");
 
     int option = int.Parse(Console.ReadLine());
 
@@ -59,7 +69,7 @@ void Menu()
             {
                 Console.WriteLine("enter amount: ");
                 float amount = float.Parse(Console.ReadLine());
-                if (amount > CurrentCard.Balance)
+                if (amount < CurrentCard.Balance)
                 {
                     if (amount > 0)
                     {
@@ -94,6 +104,10 @@ void Menu()
             }
             break;
         case 3:
+            Console.Clear();
+            Console.Write($"dear{CurrentCard.HolderName}, your balance is {CurrentCard.Balance}");
+            break;
+        case 4:
             CurrentCard = null;
             break;
     }
